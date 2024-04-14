@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/poovallal/Desktop/DMS/DocsChain 2.33.53 PM/backend/contracts/ContentStorage.sol": {
+      "lastModificationDate": 1694090501863,
+      "contentHash": "5f732f7ce85ae2af94c6b0371a032cee",
+      "sourceName": "contracts/ContentStorage.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "ContentStorage"
+      ]
+    }
+  }
+}
